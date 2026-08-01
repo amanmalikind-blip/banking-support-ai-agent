@@ -1,0 +1,6 @@
+# Never commit your API key or local database
+.env
+support.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

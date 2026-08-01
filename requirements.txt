@@ -1,0 +1,7 @@
+# Banking Customer Support AI Agent — runtime dependencies
+# Minimal set the app actually needs (works on Streamlit Community Cloud).
+streamlit>=1.40
+pandas>=2.0
+python-dotenv>=1.0
+langchain-openai>=0.2
+openai>=1.40
